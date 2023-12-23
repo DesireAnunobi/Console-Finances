@@ -1,9 +1,8 @@
 # Console-Finances
 Skills Boot Camp in Front-End Web Development - Module-4-challenge - JavaScript Fundamentals
 
-Module 4 Challenge
-Description
-This Module 1 Challenge was created for the Front-End Web Developer boot camp students. The task was to create code for analyzing the financial records of a company. The company need to know the Total Months, Total amount, Average Change, Greatest Increase in Profits/Losses and Greatest Decrease in Profits/Losses.
+## Description
+This Module 4 Challenge was created for the Front-End Web Developer boot camp students. The task was to create code for analyzing the financial records of a company. The company need to know the Total Months, Total amount, Average Change, Greatest Increase in Profits/Losses and Greatest Decrease in Profits/Losses.
 
 What I learnt?
 - I learnt the fundementals of Javascript
@@ -13,8 +12,13 @@ What I learnt?
 
 I encountered some challenges on the way including:
 - Getting used to the different data types and statements
+- Which brackets to use
+- Identifying values
 
 Link to the deployed application here:
+
+https://github.com/DesireAnunobi/Console-Finances
+
 
 
 
@@ -28,10 +32,10 @@ License
 n/a
 
 ## Usage
-A marketing agency has hired us to refactor an existing site to make it more accessible. A marketing agency wants a codebase that follows accessibility standard so the site is optimized for search engines. Simple HTML and CSS website built with basic HTML semantics. Navigation bar to go to relevant sections.
+A finance company create code for analyzing the financial records of a company. The company need to know the Total Months, Total amount, Average Change, Greatest Increase in Profits/Losses and Greatest Decrease in Profits/Losses.
 
- Screenshot 1
-
+![Screenshot](/src/images/Capture1.PNG)
+   
 ## Credits
 https://www.w3schools.com/java/java_strings_concat.asp
 https://stackoverflow.com/questions/805107/creating-multiline-strings-in-javascript/6247331#6247331
