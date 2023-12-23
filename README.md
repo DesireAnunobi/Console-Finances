@@ -19,7 +19,7 @@ Link to the deployed application here:
 
 https://github.com/DesireAnunobi/Console-Finances
 
-
+https://desireanunobi.github.io/Console-Finances/
 
 
 ## Table of Contents
@@ -34,7 +34,7 @@ n/a
 ## Usage
 A finance company create code for analyzing the financial records of a company. The company need to know the Total Months, Total amount, Average Change, Greatest Increase in Profits/Losses and Greatest Decrease in Profits/Losses.
 
-![Screenshot](/src/images/Capture1.PNG)
+![Screenshot](/images/Capture1.PNG)
    
 ## Credits
 https://www.w3schools.com/java/java_strings_concat.asp
