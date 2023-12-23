@@ -114,7 +114,7 @@ for (let i = 1; i<finances.length; i++) {
 
 // (Total/(Number of months - 1))
 
-var averageTotalChange = Math.round(totalChange / (totalMonths - 1) * 100) /100
+var averageTotalChange = Math.round((totalChange / (totalMonths - 1)) * 100) / 100
 
 // The greatest increase in profits (date and difference in the amounts) over the entire period.
 
